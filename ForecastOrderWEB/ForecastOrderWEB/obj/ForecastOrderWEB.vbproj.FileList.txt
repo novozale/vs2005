@@ -1,0 +1,12 @@
+bin\ForecastOrderWEB.dll
+bin\ForecastOrderWEB.pdb
+bin\ForecastOrderWEB.xml
+bin\Interop.Microsoft.Office.Core.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Microsoft.Office.Core.dll
+obj\Debug\ForecastOrderWEB.vbproj.ResolveComReference.cache
+obj\Debug\ForecastOrderWEB.Resources.resources
+obj\Debug\ForecastOrderWEB.vbproj.GenerateResource.Cache
+obj\Debug\ForecastOrderWEB.dll
+obj\Debug\ForecastOrderWEB.xml
+obj\Debug\ForecastOrderWEB.pdb
