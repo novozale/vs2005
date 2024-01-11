@@ -1,0 +1,46 @@
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\ShipmentsCost.exe
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\ShipmentsCost.pdb
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\ShipmentsCost.xml
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.MainForm.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.Resources.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.exe
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.xml
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.pdb
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ADODB.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ScaAppLogonIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ScaLanSrvIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ScaPrintEngine.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.SfwIII.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ADODB.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ScaAppLogonIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ScaLanSrvIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ScaPrintEngine.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.SfwIII.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.AddPriceValue.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.EditPriceValue.resources
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.exe
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.xml
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.pdb
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\ShipmentsCost.exe
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\ShipmentsCost.pdb
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\ShipmentsCost.xml
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ADODB.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ScaAppLogonIntfs.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ScaLanSrvIntfs.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.ScaPrintEngine.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\bin\Debug\Interop.SfwIII.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ResolveAssemblyReference.cache
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ADODB.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ScaAppLogonIntfs.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ScaLanSrvIntfs.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.ScaPrintEngine.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\Interop.SfwIII.dll
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.vbproj.ResolveComReference.cache
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.AddPriceValue.resources
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.EditPriceValue.resources
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.MainForm.resources
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.Resources.resources
+H:\PUBLIC\IT\iScala\ShipmentsCost\ShipmentsCost\obj\Debug\ShipmentsCost.vbproj.GenerateResource.Cache
