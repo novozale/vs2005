@@ -1,0 +1,12 @@
+Public Class ErrorMessage
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        '/////////////////////////////////////////////////////////////////////////////////////
+        '//
+        '// Закрытие окна
+        '// 
+        '/////////////////////////////////////////////////////////////////////////////////////
+
+        Me.Close()
+    End Sub
+End Class
