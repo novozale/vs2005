@@ -1,0 +1,98 @@
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.exe
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.pdb
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.xml
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\ResolveAssemblyReference.cache
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.Form1.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.Resources.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.vbproj.GenerateResource.Cache
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.exe
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.xml
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.pdb
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.ScaLanSrvIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.ScaPrintEngine.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.SfwIII.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.vbproj.ResolveComReference.cache
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.ScaLanSrvIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.ScaPrintEngine.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.SfwIII.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.ScaAppLogonIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.ScaAppLogonIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.exe.config
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.EditHeader.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.CustomerSelect.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.CustomerSelectList.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.OrderLines.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.SupplierSelect.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.SupplierSelectList.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ItemSelectList.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ShowWHDetails.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ShowBatchInfo.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ALTItems.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.AddToOrder.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.EditInOrder.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\SalesmanWorkPlace4.exe.config
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\SalesmanWorkPlace4.exe
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\SalesmanWorkPlace4.pdb
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\SalesmanWorkPlace4.xml
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\Interop.ScaAppLogonIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\Interop.ScaLanSrvIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\Interop.ScaPrintEngine.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Release\Interop.SfwIII.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\ResolveAssemblyReference.cache
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\Interop.ScaAppLogonIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\Interop.ScaLanSrvIntfs.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\Interop.ScaPrintEngine.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\Interop.SfwIII.dll
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.vbproj.ResolveComReference.cache
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.AddToOrder.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.ALTItems.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.CustomerSelect.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.CustomerSelectList.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.EditHeader.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.EditInOrder.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.Form1.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.ItemSelectList.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.Resources.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.OrderLines.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.ShowBatchInfo.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.ShowWHDetails.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.SupplierSelect.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.SupplierSelectList.resources
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.vbproj.GenerateResource.Cache
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.exe
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.xml
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Release\SalesmanWorkPlace4.pdb
+C:\data\Scala\Рабочее место продавца - 4\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ItemSelect.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.exe.config
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.exe
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.xml
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.pdb
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.exe
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.pdb
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\SalesmanWorkPlace4.xml
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.ScaAppLogonIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.ScaLanSrvIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.ScaPrintEngine.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\bin\Debug\Interop.SfwIII.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.ScaAppLogonIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.ScaLanSrvIntfs.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.ScaPrintEngine.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\Interop.SfwIII.dll
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.AddToOrder.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ALTItems.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.CustomerSelect.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.CustomerSelectList.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.EditHeader.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.EditInOrder.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.Form1.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ItemSelect.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ItemSelectList.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.Resources.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.OrderLines.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ShowBatchInfo.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.ShowWHDetails.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.SupplierSelect.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.SupplierSelectList.resources
+C:\Documents and Settings\Developer\Мои документы\Visual Studio 2005\Projects\SalesmanWorkPlace4\SalesmanWorkPlace4\obj\Debug\SalesmanWorkPlace4.vbproj.GenerateResource.Cache
