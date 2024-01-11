@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ShowAgentColumn" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SMTPService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">spbvrt6.eskru.local</Value>
+    </Setting>
+    <Setting Name="CRPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\spbsca\WinDS\Resources\Reports\custom\RPT\OR_C\Proposal010300rus.rpt</Value>
+    </Setting>
+    <Setting Name="UseOffice" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LibreOffice</Value>
+    </Setting>
+    <Setting Name="CheckCC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Да</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
