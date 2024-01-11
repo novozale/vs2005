@@ -1,0 +1,12 @@
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe.config
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.pdb
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.xml
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.Resources.resources
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.ProjectInstaller.resources
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.vbproj.GenerateResource.Cache
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.exe
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.xml
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.pdb
+C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\obj\Debug\TCPAvayaLogsReceiver.TCPAvayaLogsReceiver.resources

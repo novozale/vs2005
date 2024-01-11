@@ -1,0 +1,184 @@
+﻿Выполняется установка сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется откат для сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется установка сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Выполняется установка сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Data\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\SMDR\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется откат для сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TCPAvayaLogsReceiver.
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Попытка останова службы TCPAvayaLogsReceiver.
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Debug\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.

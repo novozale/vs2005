@@ -1,0 +1,44 @@
+﻿Выполняется установка сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.InstallLog
+Устанавливается служба TCPAvayaLogsReceiver...
+Служба TCPAvayaLogsReceiver успешно установлена.
+Создается исходный EventLog TCPAvayaLogsReceiver в журнале Application...
+Выполняется фиксация сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+Служба TCPAvayaLogsReceiver успешно удалена из системы.
+Попытка останова службы TCPAvayaLogsReceiver.
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Предупреждение. Источник TCPAvayaLogsReceiver не зарегистрирован на локальном компьютере.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.exe
+   logfile = C:\Documents and Settings\developer\Мои документы\Visual Studio 2005\Projects\TCPAvayaLogsReceiver\TCPAvayaLogsReceiver\bin\Release\TCPAvayaLogsReceiver.InstallLog
+Выполняется удаление источника EventLog TCPAvayaLogsReceiver.
+Предупреждение. Источник TCPAvayaLogsReceiver не зарегистрирован на локальном компьютере.
+Выполняется удаление службы TCPAvayaLogsReceiver из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
