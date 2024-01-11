@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02770E55-DE81-4D69-B2ED-16B878E5ADA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WEBWorkplace.My.MyApplication</StartupObject>
+    <RootNamespace>WEBWorkplace</RootNamespace>
+    <AssemblyName>WEBWorkplace</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WEBWorkplace.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WEBWorkplace.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\Newtonsoft.Json.8.0.3\lib\net20\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="ADODB" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgreedRange.Designer.vb">
+      <DependentUpon>AgreedRange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgreedRange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BasePrice.Designer.vb">
+      <DependentUpon>BasePrice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BasePrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CASH_CustomUpload.Designer.vb">
+      <DependentUpon>CASH_CustomUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CASH_CustomUpload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CASH_FullUpload.Designer.vb">
+      <DependentUpon>CASH_FullUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CASH_FullUpload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckUpdateNamesDescr.Designer.vb">
+      <DependentUpon>CheckUpdateNamesDescr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CheckUpdateNamesDescr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="City.Designer.vb">
+      <DependentUpon>City.vb</DependentUpon>
+    </Compile>
+    <Compile Include="City.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.vb">
+      <DependentUpon>Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSelectList.Designer.vb">
+      <DependentUpon>CustomerSelectList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSelectList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Declarations.vb" />
+    <Compile Include="DeletePictureFromDB.Designer.vb">
+      <DependentUpon>DeletePictureFromDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePictureFromDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePictures.Designer.vb">
+      <DependentUpon>DeletePictures.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePictures.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiscountGroup.Designer.vb">
+      <DependentUpon>DiscountGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DiscountGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiscountItem.Designer.vb">
+      <DependentUpon>DiscountItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DiscountItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiscountSubgroup.Designer.vb">
+      <DependentUpon>DiscountSubgroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DiscountSubgroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DownloadInfoFromABB.Designer.vb">
+      <DependentUpon>DownloadInfoFromABB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DownloadInfoFromABB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DownloadInfoFromSE.Designer.vb">
+      <DependentUpon>DownloadInfoFromSE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DownloadInfoFromSE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorMessage.Designer.vb">
+      <DependentUpon>ErrorMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrWindow.Designer.vb">
+      <DependentUpon>ErrWindow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ErrWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcelFunctions.vb" />
+    <Compile Include="Functions.vb" />
+    <Compile Include="IndPrice.Designer.vb">
+      <DependentUpon>IndPrice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IndPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemList.Designer.vb">
+      <DependentUpon>ItemList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSelectList.Designer.vb">
+      <DependentUpon>ItemSelectList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSelectList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadOnePictToDB.Designer.vb">
+      <DependentUpon>LoadOnePictToDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoadOnePictToDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOFunctions.vb" />
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manufacturer.Designer.vb">
+      <DependentUpon>Manufacturer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manufacturer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatchPictAndScalaCode.Designer.vb">
+      <DependentUpon>MatchPictAndScalaCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MatchPictAndScalaCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Product.Designer.vb">
+      <DependentUpon>Product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductGroup.Designer.vb">
+      <DependentUpon>ProductGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductSubGroup.Designer.vb">
+      <DependentUpon>ProductSubGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProductSubGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salesman.Designer.vb">
+      <DependentUpon>Salesman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransferNamesDescrToDB.Designer.vb">
+      <DependentUpon>TransferNamesDescrToDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransferNamesDescrToDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadAvailabilityToMagento.Designer.vb">
+      <DependentUpon>UploadAvailabilityToMagento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadAvailabilityToMagento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadDataToMagento.Designer.vb">
+      <DependentUpon>UploadDataToMagento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadDataToMagento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadFilesToCatalog.Designer.vb">
+      <DependentUpon>UploadFilesToCatalog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadFilesToCatalog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadFilesToDB.Designer.vb">
+      <DependentUpon>UploadFilesToDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadFilesToDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadInfoToSaintGobain.Designer.vb">
+      <DependentUpon>UploadInfoToSaintGobain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadInfoToSaintGobain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadPicturesToMagento.Designer.vb">
+      <DependentUpon>UploadPicturesToMagento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadPicturesToMagento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadToECommercFunctions.vb" />
+    <Compile Include="WEBFunctions.vb" />
+    <Compile Include="WEB_Magento_Functions.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AgreedRange.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgreedRange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasePrice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BasePrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CASH_CustomUpload.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CASH_CustomUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CASH_FullUpload.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CASH_FullUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckUpdateNamesDescr.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CheckUpdateNamesDescr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="City.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>City.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSelectList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomerSelectList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePictureFromDB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DeletePictureFromDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePictures.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DeletePictures.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiscountGroup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DiscountGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiscountItem.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DiscountItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiscountSubgroup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DiscountSubgroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DownloadInfoFromABB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DownloadInfoFromABB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DownloadInfoFromSE.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DownloadInfoFromSE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorMessage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ErrorMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrWindow.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ErrWindow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndPrice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IndPrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSelectList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemSelectList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadOnePictToDB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoadOnePictToDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manufacturer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Manufacturer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatchPictAndScalaCode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MatchPictAndScalaCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Product.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductGroup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ProductGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductSubGroup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ProductSubGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salesman.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Salesman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransferNamesDescrToDB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TransferNamesDescrToDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadAvailabilityToMagento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadAvailabilityToMagento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadDataToMagento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadDataToMagento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadFilesToCatalog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadFilesToCatalog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadFilesToDB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadFilesToDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadInfoToSaintGobain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadInfoToSaintGobain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadPicturesToMagento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadPicturesToMagento.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{EF53050B-882E-4776-B643-EDA472E8E3F2}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ScaAppLogonIntfs">
+      <Guid>{05896B8E-2D4A-42FB-84D9-0B73DF66349A}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ScaLanSrvIntfs">
+      <Guid>{574202FC-B846-4603-A736-FC6FD8C3EFB9}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ScaPrintEngine">
+      <Guid>{76B41165-103B-4026-8470-F5577D566D09}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SfwIII">
+      <Guid>{A6FD015A-31A9-4AE0-B181-F3FD2E41888B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
