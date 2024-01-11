@@ -1,0 +1,15 @@
+bin\Debug\CheckCurrencyExchRate.exe.config
+bin\Debug\CheckCurrencyExchRate.exe
+bin\Debug\CheckCurrencyExchRate.pdb
+bin\Debug\CheckCurrencyExchRate.xml
+bin\Debug\Interop.ADODB.dll
+bin\Debug\Interop.ADOMD.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.ADODB.dll
+obj\Debug\Interop.ADOMD.dll
+obj\Debug\CheckCurrencyExchRate.vbproj.ResolveComReference.cache
+obj\Debug\CheckCurrencyExchRate.Resources.resources
+obj\Debug\CheckCurrencyExchRate.vbproj.GenerateResource.Cache
+obj\Debug\CheckCurrencyExchRate.exe
+obj\Debug\CheckCurrencyExchRate.xml
+obj\Debug\CheckCurrencyExchRate.pdb

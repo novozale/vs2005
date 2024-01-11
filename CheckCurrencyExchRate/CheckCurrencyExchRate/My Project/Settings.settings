@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Provider=SQLOLEDB;User ID=sa;Password=sqladmin;DATABASE=ScaDataDB;SERVER=SQLCLS</Value>
+    </Setting>
+    <Setting Name="AddressITD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">alexander.novozhilov@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressITM" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pavel.romanov@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressCFO" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Elena.Pupynina@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressCA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">anna.arkhangelskaia@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressGUT1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Viktor.Kalinin@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressGUT2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Maria.Kostyleva@elektroskandia.ru</Value>
+    </Setting>
+    <Setting Name="AddressWHM1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">alexey.zbudchak@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressWHM2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Yury.Karasev@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressWHM3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Inna.Saenko@elektroskandia.ru</Value>
+    </Setting>
+    <Setting Name="AddressWHM4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">valentina.korneeva@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="SMTPService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">spbvrt6</Value>
+    </Setting>
+    <Setting Name="AddressACC1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">natalia.polyakova@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="AddressACC2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Marina.Sotnikova@elektroskandia.ru</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
