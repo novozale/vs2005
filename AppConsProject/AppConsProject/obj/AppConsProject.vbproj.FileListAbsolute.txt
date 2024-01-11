@@ -1,0 +1,14 @@
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\bin\Debug\AppConsProject.exe
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\bin\Debug\AppConsProject.pdb
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\bin\Debug\AppConsProject.xml
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.Resources.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.vbproj.GenerateResource.Cache
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.exe
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.xml
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.pdb
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.MainForm.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.AddProduct.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.EditProduct.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.ItemSelectList.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\AppConsProject\AppConsProject\obj\Debug\AppConsProject.ItemSelectList2.resources

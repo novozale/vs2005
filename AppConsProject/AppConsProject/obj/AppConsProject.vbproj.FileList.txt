@@ -1,0 +1,15 @@
+bin\Debug\AppConsProject.exe.config
+bin\Debug\AppConsProject.exe
+bin\Debug\AppConsProject.pdb
+bin\Debug\AppConsProject.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AppConsProject.AddProduct.resources
+obj\Debug\AppConsProject.ItemSelectList.resources
+obj\Debug\AppConsProject.ItemSelectList2.resources
+obj\Debug\AppConsProject.MainForm.resources
+obj\Debug\AppConsProject.Resources.resources
+obj\Debug\AppConsProject.EditProduct.resources
+obj\Debug\AppConsProject.vbproj.GenerateResource.Cache
+obj\Debug\AppConsProject.exe
+obj\Debug\AppConsProject.xml
+obj\Debug\AppConsProject.pdb
