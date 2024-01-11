@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PurchaserWorkplace_spbprd4_Versions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/versions.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Authentication" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/Authentication.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Imaging" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/imaging.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_People" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/People.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SharepointEmailWS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/SharepointEmailWS.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_StsAdapter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/dspsts.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Dws" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/dws.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Sites" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/sites.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Alerts" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/alerts.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SiteData" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/SiteData.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Views" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/views.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_QueryService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/spsearch.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_UserGroup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/UserGroup.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Webs" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/webs.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Permissions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/permissions.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Meetings" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/meetings.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Forms" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/forms.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_Copy" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/copy.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_WebPartPagesWebService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/_vti_bin/WebPartPages.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Views" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/views.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Sites" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/sites.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_StsAdapter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/dspsts.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_WebPartPagesWebService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/WebPartPages.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_UserGroup" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/UserGroup.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_QueryService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/spsearch.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Permissions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/permissions.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Meetings" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/meetings.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Dws" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/dws.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Alerts" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/alerts.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Copy" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/copy.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_SiteData" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/SiteData.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_SharepointEmailWS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/SharepointEmailWS.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Imaging" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/imaging.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Forms" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/forms.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Authentication" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/Authentication.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Versions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/versions.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_People" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/People.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Webs" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/webs.asmx</Value>
+    </Setting>
+    <Setting Name="PurchaserWorkplace_spbprd4_SD_Lists" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://spbprd4/SD/_vti_bin/lists.asmx</Value>
+    </Setting>
+    <Setting Name="BillPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\SPBPRD4\Store\PUBLIC\Logistics\Счета\</Value>
+    </Setting>
+    <Setting Name="BillCommonPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PUBLIC\Logistics\Счета\</Value>
+    </Setting>
+    <Setting Name="UseOffice" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LibreOffice</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
