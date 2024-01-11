@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExchangeCatalog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Data_Exchange</Value>
+    </Setting>
+    <Setting Name="MyDebug" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NO</Value>
+    </Setting>
+    <Setting Name="ArchivatorPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\WinRAR</Value>
+    </Setting>
+    <Setting Name="ServerURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ftp://skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="FTPLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">es_upload</Value>
+    </Setting>
+    <Setting Name="FTPPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bsnqnCSF4mMAs</Value>
+    </Setting>
+    <Setting Name="BuffSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2048</Value>
+    </Setting>
+    <Setting Name="NumberTry" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">240</Value>
+    </Setting>
+    <Setting Name="DelayTime" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="CASHCatalog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\192.168.10.178\exchange</Value>
+    </Setting>
+    <Setting Name="ProxyIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.10.160:3128</Value>
+    </Setting>
+    <Setting Name="UseOffice" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LibreOffice</Value>
+    </Setting>
+    <Setting Name="UsedCurr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0,1,4,6,11,12,13</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
