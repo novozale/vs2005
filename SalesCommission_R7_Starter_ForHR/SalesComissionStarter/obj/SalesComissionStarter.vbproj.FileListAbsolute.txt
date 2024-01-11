@@ -1,0 +1,116 @@
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+C:\MyDir\Reports\ReportServer\_ДействующиеНаСервереОтчеты\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.application
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.application
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+C:\Data\Scala\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.application
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+H:\PUBLIC\IT\reports\ReportServer\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+C:\Documents and Settings\Monahov.ELEKTROSKANDIA\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.application
+H:\PUBLIC\IT\reports\ReportServer\_NEW_2008\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+H:\PUBLIC\IT\reports\ReportServer\_NEW_2008\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+H:\PUBLIC\IT\reports\ReportServer\_NEW_2008\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+H:\PUBLIC\IT\reports\ReportServer\_NEW_2008\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+C:\Documents and Settings\monahov\Рабочий стол\SalesComissionStarter_ForManagers\SalesComissionStarter\obj\Debug\SalesComissionStarter.application
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+O:\PUBLIC\IT\reports\ReportServer\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.application
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.config
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.xml
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.pdb
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe.manifest
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.application
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.exe
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.pdb
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\SalesComissionStarter.xml
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\bin\Debug\Web References.spbprd3.Reference.vb.dll
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.Resources.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.exe.manifest
+C:\Users\chuprov\Documents\Visual Studio 2005\Projects\SalesCommission_v6_Starter_ForHR\SalesComissionStarter\obj\Debug\SalesComissionStarter.application

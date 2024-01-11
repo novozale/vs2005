@@ -1,0 +1,20 @@
+bin\Debug\SalesComissionStarter.exe.config
+bin\Debug\SalesComissionStarter.exe
+bin\Debug\SalesComissionStarter.pdb
+bin\Debug\SalesComissionStarter.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SalesComissionStarter.Resources.resources
+obj\Debug\SalesComissionStarter.SalesComissionStarter.resources
+obj\Debug\SalesComissionStarter.vbproj.GenerateResource.Cache
+obj\Debug\SalesComissionStarter.exe
+obj\Debug\SalesComissionStarter.xml
+obj\Debug\SalesComissionStarter.pdb
+bin\Debug\SalesComissionStarter.exe.manifest
+bin\Debug\SalesComissionStarter.application
+obj\Debug\SalesComissionStarter.exe.manifest
+obj\Debug\SalesComissionStarter.application
+bin\Debug\Web References.spbprd3.Reference.vb.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SalesComissionStarter.Resources.resources
+obj\Release\SalesComissionStarter.SalesComissionStarter.resources
+obj\Release\SalesComissionStarter.vbproj.GenerateResource.Cache

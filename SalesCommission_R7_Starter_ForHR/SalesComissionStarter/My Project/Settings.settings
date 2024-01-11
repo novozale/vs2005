@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DistributionCatalogPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">O:\USERS\Korolkova\Elektroskandia HR\комиссии</Value>
+    </Setting>
+    <Setting Name="SalesComissionStarter_spbprd22_ReportExecutionService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://spbprd3/ReportServer/ReportExecution2005.asmx</Value>
+    </Setting>
+    <Setting Name="InitCatalog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">O:\USERS\Korolkova\Elektroskandia HR\комиссии</Value>
+    </Setting>
+    <Setting Name="s" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
