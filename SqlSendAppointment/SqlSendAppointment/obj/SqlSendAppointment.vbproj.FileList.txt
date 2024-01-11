@@ -1,0 +1,5 @@
+bin\SqlSendAppointment.dll
+bin\SqlSendAppointment.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqlSendAppointment.dll
+obj\Debug\SqlSendAppointment.pdb
