@@ -1,0 +1,10 @@
+bin\Debug\UserFoldersCreate_2.exe.config
+bin\Debug\UserFoldersCreate_2.exe
+bin\Debug\UserFoldersCreate_2.pdb
+bin\Debug\UserFoldersCreate_2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UserFoldersCreate_2.Resources.resources
+obj\Debug\UserFoldersCreate_2.vbproj.GenerateResource.Cache
+obj\Debug\UserFoldersCreate_2.exe
+obj\Debug\UserFoldersCreate_2.xml
+obj\Debug\UserFoldersCreate_2.pdb

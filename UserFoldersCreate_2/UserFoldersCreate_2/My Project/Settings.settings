@@ -1,0 +1,56 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UserFoldersCreate_2</Value>
+    </Setting>
+    <Setting Name="AppLogType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Application</Value>
+    </Setting>
+    <Setting Name="UserGroups" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Admins&lt;/string&gt;
+  &lt;string&gt;Chelyabinsk&lt;/string&gt;
+  &lt;string&gt;Ekaterinburg&lt;/string&gt;
+  &lt;string&gt;MskOffice&lt;/string&gt;
+  &lt;string&gt;MSKStock&lt;/string&gt;
+  &lt;string&gt;Perm&lt;/string&gt;
+  &lt;string&gt;Petersburg&lt;/string&gt;
+  &lt;string&gt;Rostov&lt;/string&gt;
+  &lt;string&gt;Samara&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="MyDebug" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YES</Value>
+    </Setting>
+    <Setting Name="Admins" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\SPBPRD4\Store\USERS\</Value>
+    </Setting>
+    <Setting Name="Petersburg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\SPBPRD4\Store\USERS\</Value>
+    </Setting>
+    <Setting Name="MskOffice" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mskprd1\StoreMskOffice\USERS\</Value>
+    </Setting>
+    <Setting Name="MSKStock" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\mskprd2\StoreMSKStock\USERS\</Value>
+    </Setting>
+    <Setting Name="Ekaterinburg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\ekbprd2\StoreEkb\USERS\</Value>
+    </Setting>
+    <Setting Name="Samara" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\samprd1\StoreSam\USERS\</Value>
+    </Setting>
+    <Setting Name="Chelyabinsk" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\chelprd1\StoreChel\USERS\</Value>
+    </Setting>
+    <Setting Name="Rostov" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\shop-rnd-vyat\StoreRnd\USERS\</Value>
+    </Setting>
+    <Setting Name="Perm" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\permprd2\StorePerm\USERS\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
