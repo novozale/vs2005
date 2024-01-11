@@ -1,0 +1,36 @@
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.dll
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.pdb
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.xml
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\ResolveAssemblyReference.cache
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.Resources.resources
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.vbproj.GenerateResource.Cache
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.dll
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.xml
+C:\data\Scala\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.pdb
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.dll
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.pdb
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.xml
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.Resources.resources
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.vbproj.GenerateResource.Cache
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.dll
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.xml
+C:\Work\PROJECTS\ABCXYZ\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.pdb
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.dll
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.pdb
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.xml
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.Resources.resources
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.vbproj.GenerateResource.Cache
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.dll
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.xml
+C:\Data\Scala\reports\ReportServer\NEW (2008)\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.pdb
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.dll
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.pdb
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\bin\MasterDataPreparation.xml
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\ResolveAssemblyReference.cache
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.Resources.resources
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.vbproj.GenerateResource.Cache
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.dll
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.xml
+O:\PUBLIC\IT\reports\ReportServer\MasterDataPreparation\MasterDataPreparation\obj\Debug\MasterDataPreparation.pdb

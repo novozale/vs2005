@@ -1,0 +1,78 @@
+<publishData>
+  <publishTarget publishUrl="\\SPBPRD5\wwwroot\MD\">
+    <file relUrl="FreightIn.aspx" publishTime="12/07/2012 8:22:00" />
+    <file relUrl="Correctures.aspx" publishTime="11/03/2011 15:37:55" />
+    <file relUrl="bin/MasterDataPreparation.pdb" publishTime="29/10/2015 13:26:14" />
+    <file relUrl="bin/MasterDataPreparation.dll" publishTime="29/10/2015 13:26:14" />
+    <file relUrl="CountryNameAndID.aspx" publishTime="24/10/2011 9:25:49" />
+    <file relUrl="ItemsReturnQTY.aspx" publishTime="11/03/2011 15:45:24" />
+    <file relUrl="Web.config" publishTime="29/04/2011 11:22:31" />
+    <file relUrl="CustomerIerarchy.aspx" publishTime="11/03/2011 15:37:26" />
+    <file relUrl="RexelCustomerGroups.aspx" publishTime="11/03/2011 15:39:22" />
+    <file relUrl="RexelProductCategories.aspx" publishTime="11/03/2011 15:40:37" />
+    <file relUrl="SalesInvoicesClaims.aspx" publishTime="03/08/2011 13:29:25" />
+    <file relUrl="PeriodQTY.aspx" publishTime="23/03/2011 11:15:57" />
+    <file relUrl="CostCentre.aspx" publishTime="11/03/2011 15:36:49" />
+    <file relUrl="ABCXYZPercents.aspx" publishTime="11/03/2011 15:42:57" />
+    <file relUrl="LT_And_OI_Item_Settings.aspx" publishTime="11/02/2015 11:56:56" />
+    <file relUrl="MarginCoeffByItem.aspx" publishTime="11/03/2011 15:52:01" />
+    <file relUrl="bin/MasterDataPreparation.xml" publishTime="29/10/2015 13:26:14" />
+    <file relUrl="LT_And_OI_Settings.aspx" publishTime="11/02/2015 11:25:39" />
+    <file relUrl="MarginCoeff.aspx" publishTime="11/03/2011 15:46:01" />
+    <file relUrl="Cabel_MinSize.aspx" publishTime="09/04/2013 10:25:33" />
+    <file relUrl="RexelProductType.aspx" publishTime="11/03/2011 15:39:49" />
+    <file relUrl="RexelEndMarket.aspx" publishTime="11/03/2011 15:38:26" />
+    <file relUrl="WH_LT_Settings.aspx" publishTime="11/02/2015 11:53:55" />
+    <file relUrl="ServiceLevelCoeff.aspx" publishTime="11/03/2011 15:43:25" />
+    <file relUrl="RexelProductGroup.aspx" publishTime="11/03/2011 15:40:15" />
+  </publishTarget>
+  <publishTarget publishUrl="http://spbprd5/MD/">
+    <file relUrl="Correctures.aspx" publishTime="11/03/2011 15:37:55" />
+    <file relUrl="bin/MasterDataPreparation.pdb" publishTime="31/05/2012 11:32:29" />
+    <file relUrl="bin/MasterDataPreparation.dll" publishTime="31/05/2012 11:32:29" />
+    <file relUrl="CountryNameAndID.aspx" publishTime="24/10/2011 10:25:49" />
+    <file relUrl="ItemsReturnQTY.aspx" publishTime="11/03/2011 15:45:24" />
+    <file relUrl="Web.config" publishTime="29/04/2011 12:22:31" />
+    <file relUrl="CustomerIerarchy.aspx" publishTime="11/03/2011 15:37:26" />
+    <file relUrl="RexelCustomerGroups.aspx" publishTime="11/03/2011 15:39:22" />
+    <file relUrl="RexelProductCategories.aspx" publishTime="11/03/2011 15:40:37" />
+    <file relUrl="SalesInvoicesClaims.aspx" publishTime="03/08/2011 14:29:25" />
+    <file relUrl="PeriodQTY.aspx" publishTime="23/03/2011 11:15:57" />
+    <file relUrl="CostCentre.aspx" publishTime="11/03/2011 15:36:49" />
+    <file relUrl="ABCXYZPercents.aspx" publishTime="11/03/2011 15:42:57" />
+    <file relUrl="LT_And_OI_Item_Settings.aspx" publishTime="11/03/2011 15:44:20" />
+    <file relUrl="MarginCoeffByItem.aspx" publishTime="11/03/2011 15:52:01" />
+    <file relUrl="bin/MasterDataPreparation.xml" publishTime="31/05/2012 11:32:29" />
+    <file relUrl="LT_And_OI_Settings.aspx" publishTime="26/07/2011 15:05:31" />
+    <file relUrl="MarginCoeff.aspx" publishTime="11/03/2011 15:46:01" />
+    <file relUrl="SuppliersCurrEURPayedRUR.aspx" publishTime="11/03/2011 15:41:06" />
+    <file relUrl="RexelProductType.aspx" publishTime="11/03/2011 15:39:49" />
+    <file relUrl="RexelEndMarket.aspx" publishTime="11/03/2011 15:38:26" />
+    <file relUrl="WH_LT_Settings.aspx" publishTime="26/07/2011 16:42:47" />
+    <file relUrl="ServiceLevelCoeff.aspx" publishTime="11/03/2011 15:43:25" />
+    <file relUrl="RexelProductGroup.aspx" publishTime="11/03/2011 15:40:15" />
+  </publishTarget>
+  <publishTarget publishUrl="http://spbprd3/MD/">
+    <file relUrl="Correctures.aspx" publishTime="14/05/2010 15:22:06" />
+    <file relUrl="bin/MasterDataPreparation.pdb" publishTime="19/01/2011 16:09:32" />
+    <file relUrl="bin/MasterDataPreparation.dll" publishTime="19/01/2011 16:09:32" />
+    <file relUrl="ItemsReturnQTY.aspx" publishTime="19/01/2011 16:13:13" />
+    <file relUrl="Web.config" publishTime="08/10/2009 9:48:28" />
+    <file relUrl="CustomerIerarchy.aspx" publishTime="14/05/2010 15:22:28" />
+    <file relUrl="RexelCustomerGroups.aspx" publishTime="14/05/2010 15:22:46" />
+    <file relUrl="RexelProductCategories.aspx" publishTime="14/05/2010 15:23:24" />
+    <file relUrl="PeriodQTY.aspx" publishTime="18/05/2010 9:49:11" />
+    <file relUrl="CostCentre.aspx" publishTime="14/05/2010 15:21:00" />
+    <file relUrl="ABCXYZPercents.aspx" publishTime="14/05/2010 15:25:27" />
+    <file relUrl="LT_And_OI_Item_Settings.aspx" publishTime="14/05/2010 18:00:57" />
+    <file relUrl="MarginCoeffByItem.aspx" publishTime="16/09/2010 16:38:40" />
+    <file relUrl="bin/MasterDataPreparation.xml" publishTime="19/01/2011 16:09:32" />
+    <file relUrl="LT_And_OI_Settings.aspx" publishTime="14/05/2010 18:00:59" />
+    <file relUrl="MarginCoeff.aspx" publishTime="25/05/2010 16:18:41" />
+    <file relUrl="SuppliersCurrEURPayedRUR.aspx" publishTime="01/11/2010 13:46:29" />
+    <file relUrl="RexelProductType.aspx" publishTime="14/05/2010 15:24:00" />
+    <file relUrl="RexelEndMarket.aspx" publishTime="14/05/2010 15:23:03" />
+    <file relUrl="ServiceLevelCoeff.aspx" publishTime="14/05/2010 15:25:54" />
+    <file relUrl="RexelProductGroup.aspx" publishTime="14/05/2010 15:23:42" />
+  </publishTarget>
+</publishData>

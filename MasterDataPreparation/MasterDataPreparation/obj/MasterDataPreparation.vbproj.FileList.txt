@@ -1,0 +1,9 @@
+bin\MasterDataPreparation.dll
+bin\MasterDataPreparation.pdb
+bin\MasterDataPreparation.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MasterDataPreparation.Resources.resources
+obj\Debug\MasterDataPreparation.vbproj.GenerateResource.Cache
+obj\Debug\MasterDataPreparation.dll
+obj\Debug\MasterDataPreparation.xml
+obj\Debug\MasterDataPreparation.pdb
