@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{61CA941D-119F-49E2-9230-A7D9A4BFCCAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SalesmanWorkPlace4.My.MyApplication</StartupObject>
+    <RootNamespace>SalesmanWorkPlace4</RootNamespace>
+    <AssemblyName>SalesmanWorkPlace4</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SalesmanWorkPlace4.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SalesmanWorkPlace4.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=11.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Business Objects\Common\3.5\managed\dotnet2\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=11.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Business Objects\Common\3.5\managed\dotnet2\CrystalDecisions.ReportSource.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=11.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Business Objects\Common\3.5\managed\dotnet2\CrystalDecisions.Shared.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=11.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Business Objects\Common\3.5\managed\dotnet2\CrystalDecisions.Windows.Forms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="ADODB" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.IO" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddItem.Designer.vb">
+      <DependentUpon>AddItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToOrder.Designer.vb">
+      <DependentUpon>AddToOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddToOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ALTItems.Designer.vb">
+      <DependentUpon>ALTItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ALTItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="AttachmentsList.Designer.vb">
+      <DependentUpon>AttachmentsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AttachmentsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHKFunctions.vb" />
+    <Compile Include="CommentAndCancelReason.Designer.vb">
+      <DependentUpon>CommentAndCancelReason.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CommentAndCancelReason.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactInfo.Designer.vb">
+      <DependentUpon>ContactInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContactInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CorrectRequestDate.Designer.vb">
+      <DependentUpon>CorrectRequestDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CorrectRequestDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CPList.Designer.vb">
+      <DependentUpon>CPList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CPList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSelect.Designer.vb">
+      <DependentUpon>CustomerSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSelectList.Designer.vb">
+      <DependentUpon>CustomerSelectList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSelectList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Declarations.vb" />
+    <Compile Include="EditHeader.Designer.vb">
+      <DependentUpon>EditHeader.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditHeader.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditInOrder.Designer.vb">
+      <DependentUpon>EditInOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditInOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditRequest.Designer.vb">
+      <DependentUpon>EditRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDOInfo.Designer.vb">
+      <DependentUpon>EDOInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDOInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstimatedIncome.Designer.vb">
+      <DependentUpon>EstimatedIncome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EstimatedIncome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Functions.vb" />
+    <Compile Include="ItemSelect.Designer.vb">
+      <DependentUpon>ItemSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSelectList.Designer.vb">
+      <DependentUpon>ItemSelectList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSelectList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOFunctions.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OrderLines.Designer.vb">
+      <DependentUpon>OrderLines.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OrderLines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintProposal.Designer.vb">
+      <DependentUpon>PrintProposal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintProposal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proposal010300rus.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Proposal010300rus.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RestoreSearch.Designer.vb">
+      <DependentUpon>RestoreSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesCommentsToProposal.Designer.vb">
+      <DependentUpon>SalesCommentsToProposal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SalesCommentsToProposal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchSupplier.Designer.vb">
+      <DependentUpon>SearchSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectItemBySuppCode.Designer.vb">
+      <DependentUpon>SelectItemBySuppCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectItemBySuppCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendReturnProposal.Designer.vb">
+      <DependentUpon>SendReturnProposal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SendReturnProposal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShipmentsCost.Designer.vb">
+      <DependentUpon>ShipmentsCost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShipmentsCost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowBatchInfo.Designer.vb">
+      <DependentUpon>ShowBatchInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShowBatchInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowWHDetails.Designer.vb">
+      <DependentUpon>ShowWHDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShowWHDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierSelect.Designer.vb">
+      <DependentUpon>SupplierSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierSelectList.Designer.vb">
+      <DependentUpon>SupplierSelectList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierSelectList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddItem.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddItem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddToOrder.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddToOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ALTItems.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ALTItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AttachmentsList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AttachmentsList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommentAndCancelReason.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CommentAndCancelReason.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContactInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CorrectRequestDate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CorrectRequestDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CPList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CPList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSelect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomerSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSelectList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomerSelectList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditHeader.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditHeader.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditInOrder.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditInOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditRequest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDOInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EDOInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstimatedIncome.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EstimatedIncome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSelect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSelectList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemSelectList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderLines.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OrderLines.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintProposal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrintProposal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proposal010300rus.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Proposal010300rus.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RestoreSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesCommentsToProposal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SalesCommentsToProposal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchSupplier.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectItemBySuppCode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SelectItemBySuppCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendReturnProposal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SendReturnProposal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShipmentsCost.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShipmentsCost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowBatchInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShowBatchInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowWHDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShowWHDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierSelect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SupplierSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierSelectList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SupplierSelectList.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{EF53050B-882E-4776-B643-EDA472E8E3F2}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="ScaAppLogonIntfs">
+      <Guid>{05896B8E-2D4A-42FB-84D9-0B73DF66349A}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ScaLanSrvIntfs">
+      <Guid>{574202FC-B846-4603-A736-FC6FD8C3EFB9}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ScaPrintEngine">
+      <Guid>{76B41165-103B-4026-8470-F5577D566D09}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SfwIII">
+      <Guid>{A6FD015A-31A9-4AE0-B181-F3FD2E41888B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <Private>True</Private>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
